@@ -1,0 +1,18 @@
+{
+  "name": "api-using-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "__comment__": "write npm start in terminal to execute index.js file or write npm index.js directly to execute same"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2"
+  }
+}
